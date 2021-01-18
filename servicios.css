@@ -1,0 +1,17 @@
+header{
+    text-align: center;
+}
+body{
+    background-color: bisque;
+}
+p.p3{
+    background-color: lightblue;
+    text-align: center;
+    color: lightcyan;
+}
+article{
+    background-color: chartreuse;
+}
+footer{
+    text-align: center;
+}

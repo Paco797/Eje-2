@@ -1,0 +1,67 @@
+header{
+    text-align: center;
+}
+body{
+    background-color: bisque;
+}
+p.p1{
+    color: blue;
+    position: relative;
+    top: -30px;
+}
+p.p2{
+    color: red;
+    position: relative;
+    top: -15px;
+}
+p.p3{
+    background-color: lightblue;
+    text-align: center;
+    color: lightcyan;
+}
+hr.blue{
+    color: blue;
+    background-color: blue;
+    height: 20px;
+    position: relative;
+    top: -15px;
+}
+hr.blue2{
+    color: blue;
+    background-color: blue;
+    height: 20px;
+    position: relative;
+    top: 20px;
+}
+hr.red{
+    color: red;
+    background-color: red;
+    height: 20px;
+    position: relative;
+    top: 0px; 
+}
+hr.red2{
+    color: red;
+    background-color: red;
+    height: 20px;
+    position: relative;
+    top: 0px; 
+}
+article.a1{
+    background-color: white
+}
+article.a2{
+    background-color: lightblue;
+}
+img.empresa1{
+    float: left;
+}
+img.empresa2{
+    float: right;
+    height: 150px;
+    width: 200px;
+}
+
+footer{
+    text-align: center;
+}
